@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/earth Realm.unity
+    guid: 1060908a6ac4ee143ac4aa8ea42b1602
   m_configObjects: {}
