@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/earth Realm.unity
+- path: Assets/Scenes/Sky Realm.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -25428,7 +25428,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 243023625}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.18, y: 1, z: -7.38}
+  m_LocalPosition: {x: -31.6, y: 1, z: 21.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1068868318}
@@ -55951,16 +55951,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioBgm: {fileID: 1508406758}
-  gameBgm: {fileID: 8300000, guid: 7fcad3861589ac54ca3e198071639d88, type: 3}
-  pointSfx: {fileID: 8300000, guid: fc2c98400e9ba984fa1998fc978fc7be, type: 3}
-  contactedSfx: {fileID: 8300000, guid: 32baa1fa7f682bc43bc148fd486c3d36, type: 3}
+  gameBgm: {fileID: 8300000, guid: 72aa7b9ca1132c0459c84872f8c4dead, type: 3}
+  pointSfx: {fileID: 8300000, guid: 01cf9aa510351474cadf47ace9f04003, type: 3}
+  contactedSfx: {fileID: 8300000, guid: 5ebcfdf07e5596a49a13237a3efc284e, type: 3}
   uncontactedSfx: {fileID: 8300000, guid: 4378d55515c6a2a4b9dd4854876e41e6, type: 3}
   doorSfx: {fileID: 8300000, guid: dec57bdf4e57ea64c853a52d44d749c1, type: 3}
   errorSfx: {fileID: 8300000, guid: 496eb229645f188498fa5c4fcae55ae3, type: 3}
   gameWinSfx: {fileID: 8300000, guid: e0239cdfb3e37f54faa6ed0b5c45c5da, type: 3}
   gameLoseSfx: {fileID: 8300000, guid: 2afd0ec9547201046920c4bfab952b49, type: 3}
-  healthSfx: {fileID: 8300000, guid: 86c31395cbb1a994c9cff0f31bc6ee45, type: 3}
-  DamageSfx: {fileID: 8300000, guid: b5fa337466cf2394eb948a8cc1e09e34, type: 3}
+  healthSfx: {fileID: 8300000, guid: 303b587df26e36648ae5872bae9af59c, type: 3}
+  DamageSfx: {fileID: 8300000, guid: 5c38350416aacb845bb2bad8f16d09e9, type: 3}
 --- !u!82 &742403028
 AudioSource:
   m_ObjectHideFlags: 0
@@ -103377,7 +103377,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 7fcad3861589ac54ca3e198071639d88, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 72aa7b9ca1132c0459c84872f8c4dead, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
